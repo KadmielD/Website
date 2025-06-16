@@ -115,3 +115,56 @@ span{
     margin-left: 3%;
 }
 
+#about{
+    
+}
+
+.About{
+    text-align: center;
+    color: rgb(24, 226, 54);
+}
+
+.text-about{
+    text-align: center;
+    font-size: medium;
+    margin: 0px 150px 0px 150px;
+}
+
+#skills{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px 10px 0px;
+}
+
+.skill{
+    box-shadow: 2px 3px 3px rgb(24, 226, 54);
+    align-content: center;
+    border-radius: 10%;
+    margin: 5px 15px 5px 15px;
+    padding: 10px 0px 7px 0px;
+    width: 100px;
+    height: 70px;
+    background-color: rgb(244, 244, 244);
+}
+
+.skill img{
+    height: 50%;
+    width: 50%;
+    align-self: center;
+    margin: auto;
+}
+
+.nameskill{
+    font-weight: 550;
+    font-size: small;
+    color: black;
+    align-self: center;
+}
+
+.imgskill{
+    margin-left: 30%;
+}
+
+div h3{
+    color: rgb(24, 226, 54);
+}
